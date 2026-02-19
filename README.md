@@ -1,2 +1,2 @@
 #  Le projet HelloGit
-## Développé par Daniel Mananaga
+## Développé par Daniel Mananga
